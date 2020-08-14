@@ -1,6 +1,5 @@
 # Popular app genres on Android and iOS
 ## Identifying profitable genres to guide future development of free apps relying on ad revenue
-----------------
 
 This project looks into the SQLite database of a fictional music streaming store called Chinook. The goal is to gain insights that can guide future decision making.
 
